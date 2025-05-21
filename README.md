@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on TikiSweets project
-- 🌱 I’m currently learning backend developement
-- 📫 How to reach me: tina.fsh83@gmail.com
+ 🔭 I’m currently working on TikiSweets project
+ 🌱 I’m currently learning backend developement
+ 📫 How to reach me: tina.fsh83@gmail.com
 
 -->
