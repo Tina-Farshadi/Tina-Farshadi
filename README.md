@@ -22,4 +22,8 @@
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tina_Farshadi&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tina_Farshadi&layout=compact&theme=dark)
+
+
 
