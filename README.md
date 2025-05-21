@@ -1,9 +1,10 @@
 ## Hi there 👋
 
+🎓 Computer Engineering student at Babol Noshirvani University of Technology
 
- 🔭 I’m currently working on TikiSweets project
+ 🔭currently working on TikiSweets project
  
- 🌱 I’m currently learning backend developement
+ 🌱learning backend developement
  
  📫 How to reach me: tina.fsh83@gmail.com
 
