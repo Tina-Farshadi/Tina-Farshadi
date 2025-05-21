@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+ ###About Me
 🎓 Computer Engineering student at Babol Noshirvani University of Technology
 
  🔭currently working on TikiSweets project
@@ -8,7 +9,7 @@
  
  📫 How to reach me: tina.fsh83@gmail.com
 
-Language and tools:
+##Language and tools:
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0052CC?style=flat&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
