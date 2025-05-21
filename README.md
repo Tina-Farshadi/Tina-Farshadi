@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- ###About Me
+ **About Me**
  
 🎓 Computer Engineering student at Babol Noshirvani University of Technology
 
